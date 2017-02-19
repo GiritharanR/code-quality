@@ -1,5 +1,7 @@
 # Code quality metrics tools
 
+* http://halyph.blogspot.co.uk/2011/08/java-code-quality-tools-overview.html
+
 ## Sonarqube
 
 * https://plugins.gradle.org/plugin/org.sonarqube
